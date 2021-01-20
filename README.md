@@ -3,7 +3,7 @@
  - My name is Moscowsky Anton and I'm from Moscow Russia.
  - I'm robotic developer with strong belief to opensource and deep learning.
  - My biggest own opensource project is [Extended Object Detection](https://github.com/Extended-Object-Detection-ROS) package for ROS.
- - And yes, I'm looking for collaborators in computes vision!
+ - And yes, I'm looking for collaborators in computer vision!
  - Also I have a dream to build my personal home robot from end-to-end, and [here](https://github.com/MoscowskyAnton/BD1) you can see progress on it!
  - You can contact me via Telegram https://t.me/MoscowskyAD
 <!--
